@@ -10,7 +10,7 @@ let
 in
 stdenv.mkDerivation (finalAttrs: {
   pname = "ldbugged-net";
-  version = "2026-09-13";
+  version = "2026-09-14";
 
   src = ./.;
 
